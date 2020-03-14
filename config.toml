@@ -1,0 +1,37 @@
+baseURL = "https://quartantined.lawver.net"
+languageCode = "en-us"
+title = "quARTantined: Art made while hiding from COVID-19"
+theme = "ananke"
+paginate = 15
+
+[params]
+  description = ""
+  recent_posts_number=25
+  custom_css = ["css/nav.css", "css/gallery.css", "css/header.css", "css/tag-list.css"]
+  #featured_image = "/photos/site/cindy_is_awesome.jpg"
+
+[imaging]
+quality=75
+resize="800x"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+  name = "Browse by Tag"
+  identifier = "tags"
+  url = "/tags/"
+  weight = 100
+[[menu.main]]
+  name = "Share Your Art!"
+  identifer = "share"
+  url = "/share"
+  weight = 10
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+  name = "date"
+  weight = 100
