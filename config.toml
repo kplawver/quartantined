@@ -1,11 +1,11 @@
-baseURL = "https://quartantined.lawver.net"
+baseURL = "https://quartantined.me"
 languageCode = "en-us"
-title = "quARTantined: Art made while hiding from COVID-19"
+title = "quARTantined"
 theme = "ananke"
 paginate = 15
 
 [params]
-  description = ""
+  description = "Art made while hiding from COVID-19"
   recent_posts_number=25
   custom_css = ["css/nav.css", "css/gallery.css", "css/header.css", "css/tag-list.css"]
   #featured_image = "/photos/site/cindy_is_awesome.jpg"
