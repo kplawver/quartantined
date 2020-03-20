@@ -4,7 +4,7 @@ date: 2020-03-14T09:15:19-04:00
 draft: false
 ---
 
-The **quARTantined virtual museum** is open to all kinds of visual art created by all kinds of people created while self-quarantining!
+The **quARTantined virtual museum** is open to all kinds of visual and written art created by all kinds of people created while self-quarantining!
 
 If you'd like to share your art, there are a few ways to do it:
 
